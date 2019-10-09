@@ -1,5 +1,5 @@
-This is my first test file
-Added a new line for a new commit
+Edited the first line
+
 Added a new line from GITHUB
 Added a new line in Developement Branch
 
